@@ -1,4 +1,3 @@
 # sweater
 
-Video 6. Lets Code SpringBoot Jpa Hibernate OneToMany
-
+Video 10. Lets Code UI With Bootstrap
